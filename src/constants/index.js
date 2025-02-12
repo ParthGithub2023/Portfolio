@@ -18,7 +18,7 @@ export const EXPERIENCES = [
   },
   {
     year: "2022 - Present ",
-    role: "Frontend Developer",
+    role: "Service Supervisor",
     company: "Farm Boy Inc",
     description: `Supervised a team of 10+ employees providing coaching, training to enhance individual and team performance. Managed daily operations that includes scheduling and department maintenance, achieving a 10-15% increase in sales targets. Facilitated smoother implementation of new and existing company policies. Conduct staff meetings and coaching conversations to address challenges and develop new strategies`,
     technologies: ["Finance", "Leadership", "Supervisory", "Strategy","Daily Operations Management"],
